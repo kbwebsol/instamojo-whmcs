@@ -20,9 +20,9 @@ Copy the contents of `modules` directory into your <WHMCS installation directory
     - **Client ID** and **Client Secret** - Client Secret And Client ID can be generated on the [Integrations page](https://www.instamojo.com/integrations/). Related support article: [How Do I Get My Client ID And Client Secret?](https://support.instamojo.com/hc/en-us/articles/212214265-How-do-I-get-my-Client-ID-and-Client-Secret-)
 
     - **Test Mode:** If enabled you can use our [Sandbox environment](https://test.instamojo.com) to test payments. Note that in this case you should use `Client Secret` and `Client ID` from the test account not production.
-## KBWebsol Instamojo Partner So We are provide a Solution to User as well as.
+## KBWebsol is a Instamojo Partner,So We are providing a Gatway Solution to Instamojo's User as well as.
  
-We are Payment Gateway Partner of Instamojo, We are providing Support to his client as well. For any issue send us an email to support@kbwebsol.com.
+For any issue send us an email to support@kbwebsol.com.
  
 ## Support
 
