@@ -1,5 +1,9 @@
 # instamojo-whmcs
-Fix Currency Issue and Unpaid Issue
+1.Fix Trancation List Wrong Ammount issue.
+2.Unpaid Inovice Fix.
+3.Now You can set any other default currency. 
+
+
 # Instamojo WHMCS 7.X.X Payment Gateway Addon
 
 
