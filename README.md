@@ -1,5 +1,5 @@
 # instamojo-whmcs
-1.Fix Trancation List Wrong Ammount issue. <br>
+1.Fix Trancation List Wrong Amount issue. <br>
 2.Unpaid Inovice Fix. <br>
 3.Now You can set any other default currency.  <br>
 4.Get Invoice Refernce Number in Portal against Payment.
