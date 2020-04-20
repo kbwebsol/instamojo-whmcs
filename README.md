@@ -4,9 +4,9 @@
 3.Now You can set any other default currency.  <br>
 4.Get Invoice Refernce Number in Portal against Payment.
 
-# GET Quick Singup link as below.
+# Quick Signup link.
 
-[Click here for SignUp](https://www.instamojo.com/?referrer=client&partner_id=2f8f257d5afc4d44939f114109633219) Get Best Tranaction Rate.
+[Click here for Signup](https://www.instamojo.com/?referrer=client&partner_id=2f8f257d5afc4d44939f114109633219) and get best transaction rate.
 
 # Instamojo WHMCS 7.X.X Payment Gateway Addon
 
